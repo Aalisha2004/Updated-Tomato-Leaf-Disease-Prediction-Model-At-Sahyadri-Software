@@ -33,6 +33,10 @@ The model can classify tomato leaves into the following categories:
 * Gradio
 * Google Colab
 
+## Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59f9ade0-a3b9-4d78-9abe-439e39ce0357" />
+
+
 ## 📄 License
 
 This project was done as part of an internship at **Sahyadri College (AI & ML domain)**.
