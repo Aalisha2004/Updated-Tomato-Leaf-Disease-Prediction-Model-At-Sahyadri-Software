@@ -1,4 +1,4 @@
-<img width="798" height="175" alt="image" src="https://github.com/user-attachments/assets/b697fa6e-4d9a-4146-a8de-d5679ce3e19b" /># 🍅 Tomato Leaf Disease Detection
+# 🍅 Tomato Leaf Disease Detection
 
 This project is a deep learning-based web application designed to detect various diseases in tomato leaves. Built using TensorFlow and Gradio, it allows users to upload a tomato leaf image and receive a prediction along with confidence levels for each class.
 
