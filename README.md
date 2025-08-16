@@ -41,10 +41,6 @@ The model can classify tomato leaves into the following categories:
 <img width="501" height="771" alt="image" src="https://github.com/user-attachments/assets/eb465eda-bb37-4cc6-802e-6a6bd29b46a9" />
 
 
-
-
-## 📄 License
-
 This project was done as part of an internship at **Sahyadri College (AI & ML domain)**.
 It is intended for educational and non-commercial use.
 
